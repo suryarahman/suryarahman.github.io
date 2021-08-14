@@ -1,0 +1,49 @@
+body {
+  margin: o;
+  padding: 0;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #5c9ead;
+}
+#portfolio {
+  background-color: #5c9ead;
+}
+section {
+  padding-top: 5rem;
+}
+.contact-form {
+  padding-top: 5rem;
+}
+.icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.contact-form {
+  height: 300px;
+  text-align: center;
+  padding-top: 30px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 30px;
+}
+.contact-list {
+  float: left;
+  margin-right: 30px;
+  text-align: center;
+  margin-left: 100px;
+}
+.contact-list i {
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  opacity: 0.6;
+  color: #a3dafe;
+}
+.contact-list i:hover {
+  opacity: 1;
+  color: #91d3fe;
+}
